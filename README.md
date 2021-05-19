@@ -2,8 +2,9 @@
 - 👀 I'm interested in to learning new technologies
 - 🌱 I'm currently learning the tecnologie Android
 - 📫 How to reach me:
-- email - rafaelk.salvador@gmail.com
 - linkedin - https://www.linkedin.com/in/rafael-kovhautt-salvador-315181100/
+- cell phone number - (55)99141-8842
+- email - rafaelk.salvador@gmail.com
 
 <!---
 RafaelKSalvador/RafaelKSalvador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
