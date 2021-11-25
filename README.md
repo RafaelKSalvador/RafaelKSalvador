@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning the tecnologie Android
 - 📫 How to reach me:
 - linkedin - https://www.linkedin.com/in/rafael-kovhautt-salvador-315181100/
-- cell phone number - (55)99141-8842
+- cell phone number - (48)98811-7206
 - email - rafaelk.salvador@gmail.com
 
 <!---
